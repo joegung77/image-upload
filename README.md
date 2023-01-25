@@ -1,4 +1,4 @@
-# **Image Upload
+# Image Upload
 ## Spring Boot, React.js, and AWS
 
 <br>
